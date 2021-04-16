@@ -1,0 +1,23 @@
+html {
+  background-color: rgb(87, 87, 87);
+  color: wheat;
+}
+
+#main {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+}
+
+#img-div {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: center;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}
